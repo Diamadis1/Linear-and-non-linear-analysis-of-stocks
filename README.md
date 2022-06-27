@@ -1,5 +1,4 @@
 # Linear-and-non-linear-analysis-of-stocks
-Linear analysis, complex networks, hierarchical clustering of time series analysis
 In this paper, five stocks mainly from the technology industry are considered for a 
 linear analysis and from the perspective of complex networks. We use various functions
 to extract information from the linear analysis and the visibility graph method to construct networks. 
