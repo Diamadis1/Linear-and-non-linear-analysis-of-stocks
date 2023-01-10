@@ -32,6 +32,7 @@ while hierarchical clustering method was finally used along with dendrograms.
 ![image](https://user-images.githubusercontent.com/98957437/211601134-133635c1-f47c-475e-a174-b2230746835c.png)
 
 
+![image](https://user-images.githubusercontent.com/98957437/211602534-ab9cb071-f4ea-471f-96ae-31b938ee336a.png)
 
 
 The data set is considered during a possible economic recession period and the results indicated correlations and relationships to some degree between our time series,
