@@ -36,7 +36,13 @@ while hierarchical clustering method was finally used along with dendrograms.
 
 
 The data set is considered during a possible economic recession period and the results indicated correlations and relationships to some degree between our time series,
-useful information was extracted also from complex networks which helped us visualize the data set and extract information related to the topological metrics,
+useful information was extracted also from complex networks
+
+![image](https://user-images.githubusercontent.com/98957437/211602825-bd698db9-9c57-4687-a03b-531957ff65df.png)
+
+
+
+which helped us visualize the data set and extract information related to the topological metrics,
 hierarchical cluster analysis also had a big part in our analysis in which indicated strong connections between the data set.
 
 ![image](https://user-images.githubusercontent.com/98957437/211601346-ab1e51b9-4df7-4fd3-bdde-42f80227102b.png)
