@@ -21,6 +21,7 @@ More specifically, ACF, PACF and CCF were used as well as granger causality test
 
 ![image](https://user-images.githubusercontent.com/98957437/211600771-9ccf8486-c9d8-465a-bc13-bb00cb121933.png)
 
+![image](https://user-images.githubusercontent.com/98957437/211602011-9704637e-4edb-4441-8c7f-2dcce99f1e60.png)
 
 
 Recurrence plots were employed along with complex network time series analysis,
