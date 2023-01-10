@@ -9,3 +9,4 @@ useful information was extracted also from complex networks which helped us visu
 hierarchical cluster analysis also had a big part in our analysis in which indicated strong connections between the data set.
 Knowledge of dynamic characteristics combined with all the previous information could establish strong investing strategies,
 risk management strategies and could provide some insight into the stock market.
+![image](https://user-images.githubusercontent.com/98957437/211599973-c926ef6c-ebc7-49ec-a025-5cb3303f0c79.png)
